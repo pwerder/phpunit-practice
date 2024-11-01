@@ -1,5 +1,7 @@
 <?php
 
+namespace Tests\Unit\Core\Library;
+
 use core\library\Auth;
 use PHPUnit\Framework\TestCase;
 
